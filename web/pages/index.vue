@@ -3,7 +3,7 @@
     <h2 class="text-lg font-medium text-gray-800">Hello World!</h2>
     <p class="text-gray-600">
       当你看到这条消息，代表网站创建成功！
-      <br />
+      <br/>
       When you see this message, it means that the website has been created successfully!
     </p>
     <p>
@@ -13,4 +13,3 @@
     </p>
   </div>
 </template>
-  
